@@ -1,0 +1,13 @@
+config:
+  name: hello-world
+  size: 400
+  deps:
+    - bonjour
+    - salam
+    - hola
+    - bom dia
+    - konichua
+  sub:
+    name: byebye
+    size: 800
+
